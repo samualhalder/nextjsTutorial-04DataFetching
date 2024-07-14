@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "samsung",
+      "price": 80000,
+      "desc": "best smart phone under this price"
+    },
+    {
+      "id": 2,
+      "title": "vivo",
+      "price": 20000,
+      "desc": "best smart phone for camera."
+    },
+    {
+      "id": 3,
+      "title": "oppo",
+      "price": 30000,
+      "desc": "nice and good."
+    },
+    {
+      "id": 4,
+      "title": "i-phone",
+      "price": 100000,
+      "desc": "best smart phone."
+    },
+    {
+      "id": 5,
+      "title": "motorola",
+      "price": 30000,
+      "desc": "best smart phone for overall performence."
+    }
+  ]
+}
